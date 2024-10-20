@@ -11,6 +11,8 @@ Despite remarkable advances, space exploration continues to face significant lim
 #
 ### Automated Space Exploration
 
+![Nanoworm](https://github.com/user-attachments/assets/25bd8fac-3412-4d34-81b4-857081453b3c)
+
 Automating rockets, humanoids, and mission assignment is a critical aspect of modern aerospace and robotics development. Automated rockets are designed to reduce human intervention in launching and controlling space missions, ensuring precision and minimizing risks. By integrating advanced software and sensors, these rockets can autonomously adjust their trajectories, manage fuel efficiently, and handle unexpected situations such as engine malfunctions or environmental challenges. Automation in rockets also allows for more frequent and cost-effective launches, as seen in reusable launch systems like SpaceX’s Falcon series, which autonomously returns to Earth for reuse.
 
 Humanoids, or human-like robots, are increasingly being automated to assist in space missions, especially in environments that are hazardous for humans. These robots can perform tasks like maintenance, repairs, and assembly of structures in space or on planetary surfaces. Automation in humanoids involves sophisticated algorithms that enable them to perceive their surroundings, make decisions, and interact with objects and environments in a human-like manner. By automating these robots, space agencies aim to reduce the physical burden on astronauts and enhance the overall efficiency and safety of missions.
