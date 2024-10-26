@@ -1,4 +1,4 @@
-![1000000](https://github.com/user-attachments/assets/ca1e1bc1-1d1e-4fd8-b86f-15df54880cb2)
+![1000000000000](https://github.com/user-attachments/assets/5879eadf-0ee5-449d-b31c-fcb8bbe40514)
 
 > Research and exploration of the limits for mankind in outer space.
 
