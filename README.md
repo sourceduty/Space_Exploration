@@ -1,4 +1,4 @@
-![Floating in Space](https://github.com/user-attachments/assets/7bb56772-7e47-40b0-a589-f20c8f899259)
+![100](https://github.com/user-attachments/assets/5b859a0c-e19b-4c9b-90c7-f19bae9cda61)
 
 > Research and exploration of the limits for mankind in outer space.
 
@@ -48,6 +48,8 @@ The implications of multiplanetary globalization are profound, as it challenges 
 
 #
 ![Atomic Astronaut Moon Bomb](https://github.com/user-attachments/assets/4d719968-0532-47a2-919b-2c17860918d1)
+#
+![Floating in Space](https://github.com/user-attachments/assets/7bb56772-7e47-40b0-a589-f20c8f899259)
 #
 ![Buried Martian Skull](https://github.com/user-attachments/assets/c0a32d19-8dff-43f5-8b0b-ba6817ee005d)
 #
