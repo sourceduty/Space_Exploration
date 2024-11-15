@@ -40,7 +40,7 @@ SpaceX, founded by Elon Musk in 2002, has revolutionized spaceflight by introduc
 #
 ### Multiplanetary Globalization
 
-![Los Angeles on Mars](https://github.com/user-attachments/assets/16c0d10a-c236-417a-a838-4ce688f51a95)
+![Truman](https://github.com/user-attachments/assets/c3bb0382-7dbc-4f04-84c7-1eb320906ea6)
 
 Multiplanetary globalization refers to the expansion of human presence, culture, and economic activities across multiple planets, facilitated by advancements in space exploration and technology. As humans begin to colonize other celestial bodies, such as Mars, the notion of globalization transcends Earth's boundaries. Trade, communication, and resource exchange between planets could become integral to this new form of interconnectedness, where technological innovation enables long-distance interactions. This would likely lead to the development of new social, political, and economic systems that operate on a multiplanetary scale, reshaping how nations and civilizations engage with one another.
 
@@ -52,6 +52,8 @@ The implications of multiplanetary globalization are profound, as it challenges 
 ![GITAI](https://github.com/user-attachments/assets/79d47e44-cf6c-466c-bd2b-01071a93ee6b)
 #
 ![Buried Martian Skull](https://github.com/user-attachments/assets/c0a32d19-8dff-43f5-8b0b-ba6817ee005d)
+#
+![Los Angeles on Mars](https://github.com/user-attachments/assets/16c0d10a-c236-417a-a838-4ce688f51a95)
 
 #
 ### Related Links
